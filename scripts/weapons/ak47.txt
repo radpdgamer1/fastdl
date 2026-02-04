@@ -1,0 +1,14 @@
+"Weapon_AK47.Single"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.9"
+	"pitch"			"100"
+	"soundlevel"  		"SNDLVL_79dB"
+	
+	"rndwave"
+	{
+		"wave"	")weapons/ak47/ak47_01.wav"
+		"wave"	")weapons/ak47/ak47_02.wav"
+		"wave"	")weapons/ak47/ak47_03.wav"
+		"wave"	")weapons/ak47/ak47_04.wav"
+	}
