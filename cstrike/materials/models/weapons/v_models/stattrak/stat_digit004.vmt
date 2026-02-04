@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\stattrak\stat_digit004"
+	"$surfaceprop" "Default"
+	"$selfillum" 1
+	"$model" 1
+	"Proxies" 
+		{ 
+		"AnimatedTexture" 
+			{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "1" 
+			}
+		} 
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\knife_karam\weapon_karam-am_zebra-diffuse"	
+	"$phongexponenttexture" "models\weapons\v_models\knife_karam\weapon_karam-am_zebra-exponent"
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "40"
+	"$phongalbedoboost" "30"
+	"$phongfresnelranges" "[1.2 1.2 1.2]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+       
+}

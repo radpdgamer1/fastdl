@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"	        "models\weapons\v_models\arms\glove_speclalist\RIGHT"
+	"$bumpmap"              "models\weapons\v_models\arms\glove_speclalist\RIGHT_N"
+	"$phongexponenttexture" "models\weapons\v_models\arms\glove_speclalist\glove_motorcycle_masks1"	
+	"$phong" "1"
+	"$phongboost" "16"
+	"$phongalbedoboost" "10"
+        "$phongexponent" "10"
+	"$phongfresnelranges"   "[.05781 .05781 .0581]"
+
+	"$rimlight"                 1
+	"$rimlightexponent"         5
+	"$rimlightboost"            .1
+	"$rimmask"                  1
+
+	"$phongalbedotint" "1"
+       
+}
